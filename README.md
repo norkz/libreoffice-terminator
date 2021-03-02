@@ -1,2 +1,2 @@
-# LibreOffice's <img src="https://pt-br.libreoffice.org/assets/Uploads/PT-BR-Documents/Logomarcas/LibreOfficeexternallogo600px.png" width="90"> Terminator <img src="https://www.planocritico.com/wp-content/uploads/2015/06/O-Exterminador-do-Futuro-The-Terminator-EUA-1984.jpg" width="30">
-remove all libreoffices from arch linux.
+# LibreOffice's Terminator 💀
+## Remove all LibreOffices from Arch linux<a href="https://archlinux.org"><img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" width="30"></a>.
